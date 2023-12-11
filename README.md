@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there, I'm Riyadhul.
 
-<!--
-**riyadhultaher/riyadhultaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I like to continuously learn and familiarize myself with new technologies.
+I am currently working as a software engineer, primarily using Java and React.
+I am currently learning more about DevOps and AWS and am working towards AWS certification.
+Feel free to reach out to discuss tech or interesting topics.
+My LinkedIn: https://www.linkedin.com/in/riyadhultaher/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tech Stack
+
+Programming Languages:	Java EE, C, JavaScript, HTML 5, CSS, SQL, XML
+Frameworks / APIs:	Spring Boot, React, Bootstrap, Flexbox, EclipseLink, JDBC, JPA, JSON, AJAX, JSP, JavaFX
+Technologies / Tools:	Git, JUnit, Maven, Ivy, Postman, Eclipse, IntelliJ, Jenkins, Weblogic, Rally, Confluence, Bitbucket
